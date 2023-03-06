@@ -1,6 +1,6 @@
-# 🚀  Projeto Final Bootcamp Prometheus Grafana - ElvenWorks
+# 🚀  Projeto Exemplo Prometheus Grafana
 
-#### 1) projeto-final-bootcamp-prometheus_grafana
+#### 1) prometheus_grafana
 Este projeto é responsável pela configuração do Prometeus e Grafana, usando Docker na instância de EC2.
 Configurando Variáveis:
 O caminho para o arquivo é: prometheus/prometheus.yaml
@@ -11,8 +11,4 @@ ec2_sd_configs:
         secret_key: secret_key_exemple
         port: 9100
 ```
-
-#### 2) projeto-final-bootcamp
-
-Projeto principal. Responsável pela composição deste projeto. 
 # prometheus_grafana
